@@ -1,0 +1,7 @@
+{
+  "name": "emit-cross",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

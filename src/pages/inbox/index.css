@@ -1,0 +1,31 @@
+.avatar-inbox{
+    border: 1px solid #ddd;
+}
+
+.bk {
+    border: 1px solid #dddddd;
+    padding: 6px;
+    text-align: center;
+    background: #ddd;
+    color: var(--ion-color-primary)
+}
+
+.card-cross-div{
+    background: var(--ion-color-tertiary);
+    padding: 5px 5px 0;
+}
+
+.card-inbox{
+    background: var(--ion-color-light);
+}
+
+.inbox-no-data{
+    position: absolute;
+    transform: translate(-50%, -30%);
+    top: 30%;
+    left: 50%;
+}
+
+.inbox-no-data .data-none img{
+    width: 100% !important;
+}

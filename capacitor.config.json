@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "emit-cross",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

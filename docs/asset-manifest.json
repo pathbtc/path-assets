@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a54bc6e4.css",
+    "main.js": "./static/js/main.c4d390c3.js",
+    "static/js/630.336edf43.chunk.js": "./static/js/630.336edf43.chunk.js",
+    "static/js/738.c5bce8ca.chunk.js": "./static/js/738.c5bce8ca.chunk.js",
+    "static/js/372.c7f4f836.chunk.js": "./static/js/372.c7f4f836.chunk.js",
+    "static/js/856.a17fb993.chunk.js": "./static/js/856.a17fb993.chunk.js",
+    "static/js/22.0249a817.chunk.js": "./static/js/22.0249a817.chunk.js",
+    "static/js/215.ab291d1b.chunk.js": "./static/js/215.ab291d1b.chunk.js",
+    "static/js/841.548e8568.chunk.js": "./static/js/841.548e8568.chunk.js",
+    "static/js/186.696c5bd2.chunk.js": "./static/js/186.696c5bd2.chunk.js",
+    "static/js/225.a44aeccb.chunk.js": "./static/js/225.a44aeccb.chunk.js",
+    "static/js/377.2d666911.chunk.js": "./static/js/377.2d666911.chunk.js",
+    "static/media/Abel-Regular.ttf": "./static/media/Abel-Regular.3843f456cf56d275baf6.ttf",
+    "service-worker.js": "./service-worker.js",
+    "index.html": "./index.html",
+    "main.a54bc6e4.css.map": "./static/css/main.a54bc6e4.css.map",
+    "main.c4d390c3.js.map": "./static/js/main.c4d390c3.js.map",
+    "630.336edf43.chunk.js.map": "./static/js/630.336edf43.chunk.js.map",
+    "738.c5bce8ca.chunk.js.map": "./static/js/738.c5bce8ca.chunk.js.map",
+    "372.c7f4f836.chunk.js.map": "./static/js/372.c7f4f836.chunk.js.map",
+    "856.a17fb993.chunk.js.map": "./static/js/856.a17fb993.chunk.js.map",
+    "22.0249a817.chunk.js.map": "./static/js/22.0249a817.chunk.js.map",
+    "215.ab291d1b.chunk.js.map": "./static/js/215.ab291d1b.chunk.js.map",
+    "841.548e8568.chunk.js.map": "./static/js/841.548e8568.chunk.js.map",
+    "186.696c5bd2.chunk.js.map": "./static/js/186.696c5bd2.chunk.js.map",
+    "225.a44aeccb.chunk.js.map": "./static/js/225.a44aeccb.chunk.js.map",
+    "377.2d666911.chunk.js.map": "./static/js/377.2d666911.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a54bc6e4.css",
+    "static/js/main.c4d390c3.js"
+  ]
+}

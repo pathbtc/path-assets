@@ -1,0 +1,120 @@
+.token-tx-head{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 24px;
+    height: 15vh;
+    justify-content: space-evenly;
+}
+.token-icon{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    /*overflow: hidden;*/
+    color: var(--ion-color-medium);
+    padding: 5px;
+    /*border: 1px solid var(--ion-color-light);*/
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    border: 1px solid var(--ion-color-light);
+    flex-wrap: wrap;
+    font-weight: 600;
+    justify-content: center;
+    position: relative;
+}
+
+.token-icon > img {
+    border-radius: 50% !important;
+}
+
+.token-balance{
+    font-family: "Abel-Regular", sans-serif;
+    font-size: 28px;
+    padding: 12px;
+}
+
+.avatar-tx{
+    padding: 8px;
+    font-weight: 600;
+    background: var(--ion-color-medium);
+}
+
+.b-value{
+    font-family: "Abel-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 6px 0;
+    text-align: right;
+}
+.token-tx-type{
+    font-size: 16px;
+    font-weight: 600;
+}
+.token-tx-bt{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1001;
+    background: #fff;
+}
+.viewa{
+    font-size: 14px;
+    color: var(--ion-color-primary);
+    text-decoration: underline;
+}
+
+.icon-transform-3{
+    transform: translateY(3px);
+}
+
+.text-small{
+    font-size: 14px;
+}
+
+.text-bold{
+    font-weight: 600;
+}
+
+.text-small-x2{
+    font-size: 12px;
+}
+
+.info-amount{
+    font-size: 14px;
+    font-weight: 500;
+    background-color: rgba(119,131,143,.1);
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.word-break{
+    word-break: break-all;
+    word-wrap: normal;
+}
+
+.text-padding-normal{
+    padding: 12px 5px;
+}
+
+.info-label{
+    font-weight: 800;
+}
+
+.info-block{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.info-block-span{
+    /*background-color: #3ab9fe;*/
+}
+
+.min-cross{
+    padding: 0 20px;
+    font-size: 16px;
+    color: var(--ion-color-secondary);
+    font-weight: 600;
+}
